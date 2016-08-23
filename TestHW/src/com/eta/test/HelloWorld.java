@@ -9,6 +9,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Printing Greeting");
 		HelloWorld.displayGreeting();
+		System.out.println("Printing Greeting done");
 	}
 
 }
