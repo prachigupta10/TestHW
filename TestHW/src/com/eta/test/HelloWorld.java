@@ -11,7 +11,7 @@ public class HelloWorld {
 		HelloWorld.displayGreeting();
 		System.out.println("Printing Greeting done");
 		System.out.println("Printing next Greeting done");
-		System.out.println("Added Hi");
+		System.out.println("Added Hello");
 	}
 
 }
